@@ -270,7 +270,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![pmc pic 2](https://github.com/user-attachments/assets/40cc3962-cff9-411f-8748-86b6086f79e7)
 
-## layout of the circuit 
  
  
 ## Result :
